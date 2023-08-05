@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/coba.unity
+    guid: 1f80c6465b00007449f232e9ba1df29b
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 4afe07967cc91664e927087b7d84c718
+  - enabled: 1
+    path: Assets/Scenes/Instruction.unity
+    guid: 964e44d5f3fd8bf4c9e3a175bf879a29
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 16336cda6b715a2449dfa2b0b5620b18
+  - enabled: 1
+    path: Assets/Scenes/Materi.unity
+    guid: ac2e1a7704f6d564bace995b57c43eb1
+  - enabled: 1
+    path: Assets/Scenes/Posttest.unity
+    guid: 5a2b3137808309548869c29c07fda369
+  - enabled: 1
+    path: Assets/Scenes/Pretest.unity
+    guid: ef0306145911b5244a6ddb5dc3ece4d1
+  - enabled: 1
+    path: Assets/Scenes/Quit.unity
+    guid: 793161e4be971de4d9a5cc0ba28aa229
+  - enabled: 1
+    path: Assets/Scenes/Setting.unity
+    guid: ab2620c8279133144af0a3c4bcdb0c34
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 6f2c9494363d9e5458094f7e091e6224
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 2ad129c59e0cb004d8869de5da102e66
+  - enabled: 1
+    path: Assets/Scenes/Scene NPC.unity
+    guid: 78e30f8c89622134ab725beb499f0dd2
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d8b5868d636ce36459daa0b5e80d43ee, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 039746b17b9d5674a9f3903c9da8796c, type: 2}
