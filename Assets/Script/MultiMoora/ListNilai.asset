@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a0b86925d02e02499b3ace5592e4889, type: 3}
+  m_Name: ListNilai
+  m_EditorClassIdentifier: 
+  arrayNilai: 460000000100000046000000460000000100000046000000
+  arrayWaktu: 1e0000001e000000140000000a0000000a00000014000000
+  arrayPengalaman: 030000000100000001000000020000000100000003000000
+  normalisasiNilai:
+  - 0.4999745
+  - 0.007142493
+  - 0.4999745
+  - 0
+  - 0
+  - 0
+  normalisasiWaktu:
+  - 0.5669467
+  - 0.5669467
+  - 0.37796447
+  - 0
+  - 0
+  - 0
+  normalisasiPengalaman:
+  - 0.6
+  - 0.2
+  - 0.2
+  - 0
+  - 0
+  - 0
+  ratioSystemNilai:
+  - 0.24998724
+  - 0.0035712465
+  - 0.24998724
+  - 0
+  - 0
+  - 0
+  ratioSystemWaktu:
+  - 0.170084
+  - 0.170084
+  - 0.11338934
+  - 0
+  - 0
+  - 0
+  ratioSystemPengalaman:
+  - 0.120000005
+  - 0.04
+  - 0.04
+  - 0
+  - 0
+  - 0
+  hasilOptimasi:
+  - 0.54007125
+  - 0.21365525
+  - 0.40337658
+  - 0
+  - 0
+  - 0
+  ui:
+  - 2.1603951
+  - 59.82652
+  - 1.6135887
+  - 0
+  - 0
+  - 0

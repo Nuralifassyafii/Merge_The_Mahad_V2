@@ -56,15 +56,25 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\CollectItem\ScriptableItem.cs" />
+    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\TopDownCharacterController.cs" />
     <Compile Include="Assets\Ciconia Studio\_Shared Files\Scripts\Demo\UIButton_ShowNext.cs" />
+    <Compile Include="Assets\Script\movement.cs" />
     <Compile Include="Assets\Script\Dialogue\DialogueTrigger.cs" />
     <Compile Include="Assets\Script\MoveScene.cs" />
     <Compile Include="Assets\Character\Player\Script\CameraController.cs" />
     <Compile Include="Assets\Character\Player\Script\PlayerController.cs" />
     <Compile Include="Assets\Character\Player\Script\Movements.cs" />
+    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\PropsAltar.cs" />
     <Compile Include="Assets\Script\Interact\NPCHeadLookAt.cs" />
+    <Compile Include="Assets\Script\CollectItem\KeyController.cs" />
+    <Compile Include="Assets\Script\CollectItem\ChestController.cs" />
+    <Compile Include="Assets\Script\MultiMoora\ScriptInput.cs" />
+    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\LayerTrigger.cs" />
     <Compile Include="Assets\Script\Dialogue\DialogueManager.cs" />
+    <Compile Include="Assets\Script\MultiMoora\ScriptMultimoora.cs" />
     <Compile Include="Assets\Script\InteractionPopUp.cs" />
+    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\CameraFollow.cs" />
     <Compile Include="Assets\Script\HeadLookAtRig.cs" />
     <Compile Include="Assets\Script\MuklisInteractable.cs" />
     <Compile Include="Assets\Script\PlayerInteract.cs" />
@@ -72,7 +82,9 @@
     <Compile Include="Assets\Animation Rig\Animation Rigging\1.1.1\Animation Rigging Constraint Samples\Info\Scripts\Readme.cs" />
     <Compile Include="Assets\Script\Interact\Interact.cs" />
     <Compile Include="Assets\Character\Player\Script\HeadController.cs" />
+    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\SpriteColorAnimation.cs" />
     <Compile Include="Assets\Script\Quiz\Soal.cs" />
+    <Compile Include="Assets\Script\CollectItem\ItemController.cs" />
     <Compile Include="Assets\Animation Rig\Animation Rigging\1.1.1\Animation Rigging Constraint Samples\Scripts\mParent.cs" />
     <Compile Include="Assets\Character\Player\Script\PlayerMovement.cs" />
     <Compile Include="Assets\Script\Interact\NPCInteract.cs" />
@@ -80,19 +92,10 @@
     <Compile Include="Assets\Ciconia Studio\_Shared Files\Scripts\Demo\SuperCamera.cs" />
     <Compile Include="Assets\Script\SumbulInteract.cs" />
     <Compile Include="Assets\Script\Interact\PlayerInteraction.cs" />
+    <Compile Include="Assets\Script\MultiMoora\ScriptableNilai.cs" />
     <Compile Include="Assets\Script\Trigger\Trigger.cs" />
     <Compile Include="Assets\Script\AhmadInteract.cs" />
     <Compile Include="Assets\Ciconia Studio\_Shared Files\Scripts\Demo\FreeCamera.cs" />
-    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\SpriteColorAnimation.cs" />
-    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\LayerTrigger.cs" />
-    <Compile Include="Assets\Script\CollectItem\ScriptableItem.cs" />
-    <Compile Include="Assets\Script\CollectItem\KeyController.cs" />
-    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\PropsAltar.cs" />
-    <Compile Include="Assets\Script\movement.cs" />
-    <Compile Include="Assets\Script\CollectItem\ChestController.cs" />
-    <Compile Include="Assets\Script\CollectItem\ItemController.cs" />
-    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\TopDownCharacterController.cs" />
-    <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\CameraFollow.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

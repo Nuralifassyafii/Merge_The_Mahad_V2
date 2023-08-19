@@ -6,6 +6,9 @@ TagManager:
   tags:
   - NPC
   - Pohon
+  - Alt
+  - Ratio
+  - Normalisasi
   layers:
   - Default
   - TransparentFX
